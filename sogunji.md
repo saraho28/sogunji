@@ -1,10 +1,10 @@
 # Delicious Dessert :cake: :cookie: :icecream:
 
-Sarah Ogunji
+**Sarah Ogunji**
 
-In-class Exercise 5
+**In-class Exercise 5**
 
-February 5, 2018
+**February 5, 2018**
 
 
 ## Sweet Cravings?
@@ -19,7 +19,7 @@ These desserts are delicious options to have after a meal, as a stress reliever,
 
 Cake is a form of sweet dessert that is typically baked. In its oldest forms, cakes were modifications of breads, but cakes now cover a wide range of preparations that can be simple or elaborate, and that share features with other desserts such as pastries, meringues, custards, and pies.
 
-Typical cake ingredients are flour, sugar, eggs, butter or oil or margarine, a liquid, and leavening agents, such as baking soda or baking powder. Common additional ingredients and flavourings include dried, candied, or fresh fruit, nuts, cocoa, and extracts such as vanilla, with numerous substitutions for the primary ingredients. Cakes can also be filled with fruit preserves,nuts or dessert sauces (like pastry cream), iced with buttercream or other icings, and decorated with marzipan, piped borders, or candied fruit.
+Typical cake ingredients are **flour, sugar, eggs, butter or oil or margarine, a liquid, and leavening agents, such as baking soda or baking powder**. Common additional ingredients and flavourings include dried, candied, or fresh fruit, nuts, cocoa, and extracts such as vanilla, with numerous substitutions for the primary ingredients. Cakes can also be filled with fruit preserves,nuts or dessert sauces (like pastry cream), iced with buttercream or other icings, and decorated with marzipan, piped borders, or candied fruit.
 
 Cake is often served as a celebratory dish on ceremonial occasions, such as weddings, anniversaries, and birthdays. There are countless cake recipes; some are bread-like, some are rich and elaborate, and many are centuries old. Cake making is no longer a complicated procedure; while at one time considerable labor went into cake making (particularly the whisking of egg foams), baking equipment and directions have been simplified so that even the most amateur cook may bake a cake.
 
@@ -47,7 +47,7 @@ Cookies or biscuits may be mass-produced in factories, made in small bakeries or
 
 Ice cream (derived from earlier iced cream or cream ice is a sweetened frozen food typically eaten as a snack or dessert. It is usually made from dairy products, such as milk and cream, and often combined with fruits or other ingredients and flavors. It is typically sweetened with sugar or sugar substitutes. Typically, flavorings and colorings are added in addition to stabilizers. The mixture is stirred to incorporate air spaces and cooled below the freezing point of water to prevent detectable ice crystals from forming. The result is a smooth, semi-solid foam that is solid at very low temperatures (< 2 °C or 35 °F). It becomes more malleable as its temperature increases.
 
-The meaning of the phrase "ice cream" varies from one country to another. Phrases such as "frozen custard", "frozen yogurt", "sorbet", "gelato" and others are used to distinguish different varieties and styles. In some countries, such as the United States, the phrase "ice cream" applies only to a specific variety, and most governments regulate the commercial use of the various terms according to the relative quantities of the main ingredients, notably the amount of cream. Products that do not meet the criteria to be called ice cream are labelled "frozen dairy dessert" instead. In other countries, such as Italy and Argentina, one word is used for all variants. Analogues made from dairy alternatives, such as goat's or sheep's milk, or milk substitutes (e.g., soy milk or tofu), are available for those who are lactose intolerant, allergic to dairy protein, or vegan.
+The meaning of the phrase *"ice cream"* varies from one country to another. Phrases such as *"frozen custard", "frozen yogurt", "sorbet", "gelato"* and others are used to distinguish different varieties and styles. In some countries, such as the United States, the phrase "ice cream" applies only to a specific variety, and most governments regulate the commercial use of the various terms according to the relative quantities of the main ingredients, notably the amount of cream. Products that do not meet the criteria to be called ice cream are labelled "frozen dairy dessert" instead. In other countries, such as Italy and Argentina, one word is used for all variants. Analogues made from dairy alternatives, such as goat's or sheep's milk, or milk substitutes (e.g., soy milk or tofu), are available for those who are lactose intolerant, allergic to dairy protein, or vegan.
 
 Ice cream may be served in dishes, for eating with a spoon, or in cones, which are licked. Ice cream may be served with other desserts, such as apple pie. Ice cream is used to prepare other desserts, including ice cream floats, sundaes, milkshakes, ice cream cakes and even baked items, such as the Baked Alaska.
 
