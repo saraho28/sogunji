@@ -50,5 +50,10 @@ Ice cream (derived from earlier iced cream or cream ice is a sweetened frozen fo
 The meaning of the phrase "ice cream" varies from one country to another. Phrases such as "frozen custard", "frozen yogurt", "sorbet", "gelato" and others are used to distinguish different varieties and styles. In some countries, such as the United States, the phrase "ice cream" applies only to a specific variety, and most governments regulate the commercial use of the various terms according to the relative quantities of the main ingredients, notably the amount of cream. Products that do not meet the criteria to be called ice cream are labelled "frozen dairy dessert" instead. In other countries, such as Italy and Argentina, one word is used for all variants. Analogues made from dairy alternatives, such as goat's or sheep's milk, or milk substitutes (e.g., soy milk or tofu), are available for those who are lactose intolerant, allergic to dairy protein, or vegan.
 
 Ice cream may be served in dishes, for eating with a spoon, or in cones, which are licked. Ice cream may be served with other desserts, such as apple pie. Ice cream is used to prepare other desserts, including ice cream floats, sundaes, milkshakes, ice cream cakes and even baked items, such as the Baked Alaska.
+
 ![IC](https://github.com/saraho28/sogunji/blob/master/media/ice-cream.png)
 
+### Content from:
+1. https://en.wikipedia.org/wiki/Cake
+2. https://en.wikipedia.org/wiki/Cookie
+3. https://en.wikipedia.org/wiki/Ice_cream
