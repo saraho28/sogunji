@@ -1,4 +1,4 @@
-# Delicious Dessert :cake: :cookie: :icecream:
+# Delicious Desserts :cake: :cookie: :icecream:
 
 **Sarah Ogunji**
 
