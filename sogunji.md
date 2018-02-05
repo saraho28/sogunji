@@ -15,7 +15,7 @@ These desserts are delicious options to have after a meal, as a stress reliever,
 
 ## Cakes
 
-![cake](https://github.com/saraho28/media/blob/master/cake.jpg)
+![cake](https://github.com/saraho28/sogunji/blob/master/media/cake.jpg)
 
 Cake is a form of sweet dessert that is typically baked. In its oldest forms, cakes were modifications of breads, but cakes now cover a wide range of preparations that can be simple or elaborate, and that share features with other desserts such as pastries, meringues, custards, and pies.
 
@@ -36,18 +36,19 @@ Cake is often served as a celebratory dish on ceremonial occasions, such as wedd
 
 A cookie is a baked or cooked food that is small, flat and sweet. It usually contains flour, sugar and some type of oil or fat. It may include other ingredients such as raisins, oats, chocolate chips, nuts, etc.
 
-![cookie](https://github.com/saraho28/sogunji/blob/master/cookie1.jpg) ![cookie](https://github.com/saraho28/sogunji/blob/master/cookie1.jpg) ![cookie](https://github.com/saraho28/sogunji/blob/master/cookie1.jpg)
+![cookie](https://github.com/saraho28/sogunji/blob/master/media/cookie1.jpg) ![cookie](https://github.com/saraho28/sogunji/blob/master/media/cookie2.jpg) ![cookie](https://github.com/saraho28/sogunji/blob/master/media/cookie3.jpg) 
 
 In most English-speaking countries except for the US and Canada, crisp cookies are called biscuits. Chewier biscuits are sometimes called cookies even in the UK. Some cookies may also be named by their shape, such as date squares or bars.
 
 Cookies or biscuits may be mass-produced in factories, made in small bakeries or homemade. Biscuit or cookie variants include sandwich biscuits, such as custard creams, Jammie Dodgers, Bourbons and Oreos, with marshmallow or jam filling and sometimes dipped in chocolate or another sweet coating. Cookies are often served with beverages such as milk, coffee or tea. Factory-made cookies are sold in grocery stores, convenience stores and vending machines. Fresh-baked cookies are sold at bakeries and coffeehouses, with the latter ranging from small business-sized establishments to multinational corporations such as Starbucks.
 
 
-## Ice Cream
+## Ice Cream  
 
 Ice cream (derived from earlier iced cream or cream ice is a sweetened frozen food typically eaten as a snack or dessert. It is usually made from dairy products, such as milk and cream, and often combined with fruits or other ingredients and flavors. It is typically sweetened with sugar or sugar substitutes. Typically, flavorings and colorings are added in addition to stabilizers. The mixture is stirred to incorporate air spaces and cooled below the freezing point of water to prevent detectable ice crystals from forming. The result is a smooth, semi-solid foam that is solid at very low temperatures (< 2 °C or 35 °F). It becomes more malleable as its temperature increases.
 
 The meaning of the phrase "ice cream" varies from one country to another. Phrases such as "frozen custard", "frozen yogurt", "sorbet", "gelato" and others are used to distinguish different varieties and styles. In some countries, such as the United States, the phrase "ice cream" applies only to a specific variety, and most governments regulate the commercial use of the various terms according to the relative quantities of the main ingredients, notably the amount of cream. Products that do not meet the criteria to be called ice cream are labelled "frozen dairy dessert" instead. In other countries, such as Italy and Argentina, one word is used for all variants. Analogues made from dairy alternatives, such as goat's or sheep's milk, or milk substitutes (e.g., soy milk or tofu), are available for those who are lactose intolerant, allergic to dairy protein, or vegan.
 
-Ice cream may be served in dishes, for eating with a spoon, or in cones, which are licked. Ice cream may be served with other desserts, such as apple pie. Ice cream is used to prepare other desserts, including ice cream floats, sundaes, milkshakes, ice cream cakes and even baked items, such as the Baked Alaska
+Ice cream may be served in dishes, for eating with a spoon, or in cones, which are licked. Ice cream may be served with other desserts, such as apple pie. Ice cream is used to prepare other desserts, including ice cream floats, sundaes, milkshakes, ice cream cakes and even baked items, such as the Baked Alaska.
+![IC](https://github.com/saraho28/sogunji/blob/master/media/ice-cream.png)
 
