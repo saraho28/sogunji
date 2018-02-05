@@ -15,7 +15,7 @@ These desserts are delicious options to have after a meal, as a stress reliever,
 
 ## Cakes
 
-![cake](https://github.com/saraho28/sogunji/blob/master/media/cake.jpg)
+![cake](media/cake.jpg)
 
 Cake is a form of sweet dessert that is typically baked. In its oldest forms, cakes were modifications of breads, but cakes now cover a wide range of preparations that can be simple or elaborate, and that share features with other desserts such as pastries, meringues, custards, and pies.
 
@@ -36,7 +36,7 @@ Cake is often served as a celebratory dish on ceremonial occasions, such as wedd
 
 A cookie is a baked or cooked food that is small, flat and sweet. It usually contains flour, sugar and some type of oil or fat. It may include other ingredients such as raisins, oats, chocolate chips, nuts, etc.
 
-![cookie](https://github.com/saraho28/sogunji/blob/master/media/cookie1.jpg) ![cookie](https://github.com/saraho28/sogunji/blob/master/media/cookie2.jpg) ![cookie](https://github.com/saraho28/sogunji/blob/master/media/cookie3.jpg) ![cookie](https://github.com/saraho28/sogunji/blob/master/media/COOKIE4.jpg) 
+![cookie](media/cookie1.jpg) ![cookie](media/cookie2.jpg) ![cookie](media/cookie3.jpg) ![cookie](media/COOKIE4.jpg) 
 
 In most English-speaking countries except for the US and Canada, crisp cookies are called biscuits. Chewier biscuits are sometimes called cookies even in the UK. Some cookies may also be named by their shape, such as date squares or bars.
 
@@ -51,7 +51,7 @@ The meaning of the phrase *"ice cream"* varies from one country to another. Phra
 
 Ice cream may be served in dishes, for eating with a spoon, or in cones, which are licked. Ice cream may be served with other desserts, such as apple pie. Ice cream is used to prepare other desserts, including ice cream floats, sundaes, milkshakes, ice cream cakes and even baked items, such as the Baked Alaska.
 
-![IC](https://github.com/saraho28/sogunji/blob/master/media/ice-cream.png)
+![IC](media/ice-cream.png)
 
 ### Content from:
 1. https://en.wikipedia.org/wiki/Cake
