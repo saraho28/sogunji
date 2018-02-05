@@ -36,7 +36,7 @@ Cake is often served as a celebratory dish on ceremonial occasions, such as wedd
 
 A cookie is a baked or cooked food that is small, flat and sweet. It usually contains flour, sugar and some type of oil or fat. It may include other ingredients such as raisins, oats, chocolate chips, nuts, etc.
 
-![cookie](https://github.com/saraho28/sogunji/blob/master/media/cookie1.jpg) ![cookie](https://github.com/saraho28/sogunji/blob/master/media/cookie2.jpg) ![cookie](https://github.com/saraho28/sogunji/blob/master/media/cookie3.jpg) 
+![cookie](https://github.com/saraho28/sogunji/blob/master/media/cookie1.jpg) ![cookie](https://github.com/saraho28/sogunji/blob/master/media/cookie2.jpg) ![cookie](https://github.com/saraho28/sogunji/blob/master/media/cookie3.jpg) ![cookie](https://github.com/saraho28/sogunji/blob/master/media/COOKIE4.jpg) 
 
 In most English-speaking countries except for the US and Canada, crisp cookies are called biscuits. Chewier biscuits are sometimes called cookies even in the UK. Some cookies may also be named by their shape, such as date squares or bars.
 
